@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hrshammo/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hasibul-islam-4a05a9211)) 
  
-https://drive.google.com/drive/folders/1GDqTEacH6j2iJt--qsaag4x7Mxa87tq3?usp=sharing
+
