@@ -1,7 +1,8 @@
 ## Who am I ?
 I am a final-year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
 I am an open-source Contributor and a web development addict.
-## Expert in C, C++, Machine Learning and Deep Learning, NLP. 
+## Skills I have
+Expert in C, C++, Machine Learning and Deep Learning, NLP. 
 Comfortable in HTML, CSS, MySQL.
 Familiar with C#, PHP, Java, React Native, MATLAB, Arduino. 
 Tools – Android Studio, VS Code, GitHub, PyCharm, Google Colab, Code Blocks.
