@@ -1,13 +1,17 @@
 ## Who am I ?
 I am a final-year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
 I am an open-source Contributor and a web development addict.
-
+## Expert in C, C++, Machine Learning and Deep Learning, NLP. 
+Comfortable in HTML, CSS, MySQL.
+Familiar with C#, PHP, Java, React Native, MATLAB, Arduino. 
+Tools – Android Studio, VS Code, GitHub, PyCharm, Google Colab, Code Blocks.
+Learning -Dart, Flutter, WordPress.
 <!--
 **hrshammo/Hasib2k21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
