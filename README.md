@@ -3,11 +3,11 @@ I am a final-year student at Bangladesh University of Business and Technology (B
 I am an open-source Contributor and a web development addict.
 ## Skills I have
 
-<li> Expert in C, C++, Machine Learning and Deep Learning, NLP.</li> 
+<li> Expert in C, C++, Dart, Flutter FrameWork,Machine Learning and Deep Learning, NLP.</li> 
 <li>Comfortable in HTML, CSS, MySQL.</li>
 <li>Familiar with C#, PHP, Java, React Native, MATLAB, Arduino.</li>
 <li>Tools – Android Studio, VS Code, GitHub, PyCharm, Google Colab, Code Blocks.</li>
-<li>Learning -Dart, Flutter, WordPress.</li>
+<li>Learning - Flutter, WordPress.</li>
 
 <!--
 **hrshammo/Hasib2k21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
