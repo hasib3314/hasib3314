@@ -47,12 +47,11 @@
 
 [linkedin]: https://www.linkedin.com/in/boktiarahmed73/
 [twitter]: https://twitter.com/bappy913873
-[Instagram]: https://www.instagram.com/entbappy/
+[Instagram]: [https://www.instagram.com/entbappy/](https://www.instagram.com/can_i_kiss_you____/)
 [YouTube]: https://www.youtube.com/dswithbappy
 [LeetCode]: https://leetcode.com/entbappy/
 
-## 💰 You can support me if you liked my work by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dswithbappy)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hasib2k21&label=Profile%20views&color=0e75b6&style=flat" alt="Hasib2k21" /> </p>
 
