@@ -45,12 +45,9 @@
 
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/boktiarahmed73/
-[twitter]: https://twitter.com/bappy913873
+[linkedin]:https://www.linkedin.com/in/mohammad--hasib/
+[twitter]: https://twitter.com/hasiba1b2
 [Instagram]: https://www.instagram.com/can_i_kiss_you____/
-[YouTube]: https://www.youtube.com/dswithbappy
-[LeetCode]: https://leetcode.com/entbappy/
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hasib2k21&label=Profile%20views&color=0e75b6&style=flat" alt="Hasib2k21" /> </p>
