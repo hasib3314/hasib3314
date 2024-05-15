@@ -47,7 +47,7 @@
 
 [linkedin]: https://www.linkedin.com/in/boktiarahmed73/
 [twitter]: https://twitter.com/bappy913873
-[Instagram]: [https://www.instagram.com/entbappy/](https://www.instagram.com/can_i_kiss_you____/)
+[Instagram]: https://www.instagram.com/can_i_kiss_you____/
 [YouTube]: https://www.youtube.com/dswithbappy
 [LeetCode]: https://leetcode.com/entbappy/
 
