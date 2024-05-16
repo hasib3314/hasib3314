@@ -77,14 +77,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
- <div align="center">
-     
-     
-     
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=Hasib2k21&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-</div>
  
-<div align="center">
 
 
 
