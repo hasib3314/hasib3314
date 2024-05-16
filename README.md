@@ -46,7 +46,7 @@
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/Hasib2k21/count.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hasib2k21&label=Profile%20views&color=0e75b6&style=flat" alt="Hasib2k21" /> </p>
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=entbappy" alt="entbappy" /></a> </p> -->
 
