@@ -47,7 +47,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/Hasib2k21/count.svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hasib2k21&icon=0&color=0)]
+![](https://visitcount.itsvg.in/api?id=Hasib2k21&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
