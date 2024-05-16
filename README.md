@@ -3,18 +3,10 @@
 <h4 align="center">I'm a Data Scientist and Flutter Developer</h4>
 
 
-<li> Expert in C, C++, Dart, Flutter FrameWork,Machine Learning and Deep Learning, NLP.</li> 
+<li> Expert in C, C++, Dart, Flutter FrameWork,Machine Learning and Deep Learning, NLP, WordPress.</li> 
 <li>Comfortable in HTML, CSS, MySQL.</li>
 <li>Familiar with C#, PHP, Java, React Native, MATLAB, Arduino.</li>
 <li>Tools – Android Studio, VS Code, GitHub, PyCharm, Google Colab, Code Blocks.</li>
-<li>Learning - Flutter, WordPress.</li>
-### I have technical experience and interest in:
-* Deep Learning
-* Machine Learning
-* Computer vision 
-* Natural Language Processing
-* MLOps
-* Generative AI 
 
 
 
