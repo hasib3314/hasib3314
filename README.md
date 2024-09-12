@@ -74,9 +74,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasib2k21&show_icons=true&locale=en&layout=compact" alt="Hasib2k21" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hasib2k21&show_icons=true&locale=en" alt="Hasib2k21" /></p>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hasib2k21&show_icons=true&theme=gotham" alt="Hasib2k21" />
 
 
