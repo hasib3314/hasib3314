@@ -1,5 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Hasib 😀</h1>
+![Blue Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/a5374afd-af13-488e-ad23-28d8fa0276c5)
 <h4 align="center">I'm a Data Scientist and Flutter Developer.</h4>
 
 
