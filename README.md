@@ -3,7 +3,7 @@
 <h4 align="center">I'm a Data Scientist and Flutter Developer.</h4>
 
 
-<li> Expert in C, C++, Dart, Flutter FrameWork,Machine Learning and Deep Learning, NLP, WordPress.</li> 
+<li> Expert in C, C++, Dart, HTML. CSS. JS, React JS , Flutter ,Machine Learning and Deep Learning, NLP, WordPress.</li> 
 <li>Comfortable in HTML, CSS, MySQL.</li>
 <li>Familiar with C#, PHP, Java, React Native, MATLAB, Arduino.</li>
 <li>Tools – Android Studio, VS Code, GitHub, PyCharm, Google Colab, Code Blocks.</li>
